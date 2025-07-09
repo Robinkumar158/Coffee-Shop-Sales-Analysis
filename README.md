@@ -59,9 +59,7 @@ Utilized MySql and DAX to make measures and calculations for Total sales, Total 
 * Which are the top 10 products by sales?
 * How does sales performance vary by days and hours?
 # Result
-
-
-
+![image](https://github.com/Robinkumar158/Coffee-Shop-Sales-Analysis/issues/1#issue-3216129835)
 # Recommendations
 Based on the analysis, the following insights and recommendations were derived:
 

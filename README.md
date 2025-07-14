@@ -1,5 +1,5 @@
 # Coffee-Shop-Sales-Analysis
-# Project Overview
+# Project Introduction
 Developed a Power BI project focused on analyzing sales data for a coffee shop. The project aims to construct a comprehensive dashboard that provides actionable insights into various aspects of sales performance, including total sales, order analysis, sales trends by time and location, and product performance.
 # Problem Statement
 The coffee shop is struggling to understand its sales performance. The specific areas of concern include:
